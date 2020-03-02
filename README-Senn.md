@@ -49,14 +49,14 @@ Run these following scripts:
 >  
 >  # Senn2x
 > 
->  python main.py  --model san  --data_test MyImage  --save `save_name`  --scale 2 ../model/Senn_BIX2.pt  
+>  ```python main.py  --model san  --data_test MyImage  --save `save_name`  --scale 2 ../model/Senn_BIX2.pt```
 > 
 >  # Senn4x   
 > 
->  python main.py  --model senn6x --data_test MyImage  --save `save_name`  --scale 4 ../model/Senn_BIX4.pt  
+>  ```python main.py  --model senn6x --data_test MyImage  --save `save_name`  --scale 4 ../model/Senn_BIX4.pt``` 
 > 
 >  # Senn6x
->  python main.py  --model senn6x --data_test MyImage  --save `save_name`  --scale 6 ../model/Senn_BIX6.pt
+>  ```python main.py  --model senn6x --data_test MyImage  --save `save_name`  --scale 6 ../model/Senn_BIX6.pt```
 > 
 
 ## Results
