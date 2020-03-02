@@ -2,7 +2,7 @@
 
 Senn6x is an experimental Residual Channel Attention Network designed for Image Super-Resolution.
 
-![Little Guy](https://github.com/Senn1/technical-writing-test-repo/blob/master/Figures/littleguy.png)
+<img src="Figures/littleguy.png">
 
 The code is built on [RCAN](https://github.com/yulunzhang/RCAN) and the model was trained on the [DIV2K](http://www.vision.ee.ethz.ch/~timofter/publications/Agustsson-CVPRW-2017.pdf) dataset.
 
@@ -61,7 +61,7 @@ Run these following scripts:
 
 ## Results
 
-The results are in the /results folder. Test results for popular datasets can also be downloaded [here](https://www.youtube.com/watch?v=pAoDgCF-feg).
+The results are in the /results folder. Test results for popular datasets can also be downloaded [here](https://www.youtube.com/watch?v=pAoDgCF-feg). (placeholder link)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
